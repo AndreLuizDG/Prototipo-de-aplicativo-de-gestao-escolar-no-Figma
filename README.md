@@ -4,18 +4,11 @@
 O projeto Siga foi desenvolvido utilizando o Figma, uma ferramenta para design de interfaces e prototipagem. Este repositório documenta o design do projeto, e informações para colaboração e implementação. Além disso, o projeto aplica conceitos básicos de Interação Humano-Computador (IHC), focando em criar uma interface intuitiva e de fácil uso para melhorar a experiência do usuário.
 
 ## :books: Funcionalidades
-- **Design de Interface**
-  - Protótipos de alta fidelidade para interfaces web e móveis
-  - Estrutura de navegação clara e intuitiva
-  - Componentização dos elementos para reutilização em diferentes partes do sistema
 
-- **Colaboração no Projeto**
-  - Documentação das regras de estilo e uso dos componentes
   - Link para o acesso ao projeto no Figma: [Siga - Projeto Figma](https://www.figma.com/design/dAPj7ztZULfc2eq6bebKK8/Siga?node-id=0-1)
 
 ## :wrench: Tecnologias utilizadas
 - **Figma**: Ferramenta principal para design e prototipagem
-- **Figma Plugins**: Utilização de plugins do Figma para otimizar o fluxo de trabalho, como Auto Layout e Iconify
 
 ## Estrutura do Projeto
 - **Página Inicial**: Design da tela inicial do sistema
